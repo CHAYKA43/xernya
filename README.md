@@ -14,7 +14,7 @@
 
 # Linux
 1. Открываeм терминал
-2. Пишем ```git clone https://gitverse.ru/CHAYKA43/xernya```
+2. Пишем ```git clone https://github.com/CHAYKA43/xernya```
 3. Заходим в каталог с файлом с помощью команды ```cd xernya```
 4. Теперь с помощью комманды ```rustc myprogramm.rs``` Компилируем файл
 5. А потом пишем ```./myprogramm```
